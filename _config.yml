@@ -1,0 +1,24 @@
+title: "田野感知與創作｜Field Archive"
+description: "Weekly fieldnotes, experiments, and works in progress"
+lang: zh-TW
+timezone: Asia/Taipei
+
+# 所有學生請將 repository 命名為 fieldworkarchive。
+# 這樣複製模板後不必修改網址設定。
+baseurl: "/fieldworkarchive"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - STUDENT_GUIDE.md
+  - TEACHER_SETUP.md
+

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'zh-TW' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        田野檔案 <span>FIELD ARCHIVE</span>
+      </a>
+      <nav aria-label="主要選單">
+        <a href="{{ '/' | relative_url }}">每週紀錄</a>
+        <a href="{{ '/about/' | relative_url }}">關於我</a>
+        <a href="{{ '/midterm/' | relative_url }}">期中</a>
+        <a href="{{ '/final/' | relative_url }}">期末</a>
+      </nav>
+    </header>
+
+    <main class="page-shell">
+      {{ content }}
+    </main>
+  </body>
+</html>
+
