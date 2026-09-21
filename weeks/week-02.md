@@ -11,9 +11,9 @@ permalink: /weeks/week-02/
 
 ## TRACE｜痕跡
 
-![圖片說明]({{ '/assets/images/w02-trace01.jpg' | relative_url }})
-![圖片說明]({{ '/assets/images/w02-trace02.jpg' | relative_url }})
-![圖片說明]({{ '/assets/images/w02-trace03.jpg' | relative_url }})
+({{ '/assets/images/w02-trace01.jpg' | relative_url }})
+({{ '/assets/images/w02-trace02.jpg' | relative_url }})
+({{ '/assets/images/w02-trace03.jpg' | relative_url }})
 
 ## FRICTION｜摩擦
 
