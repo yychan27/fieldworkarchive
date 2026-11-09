@@ -9,10 +9,15 @@ permalink: /weeks/week-03/
 
 > 請保留具體的現場、材料、語句或身體感受。
 ## TRACE｜痕跡
+![圖片說明]({{ '/assets/images/w03-01jpg' | relative_url }})
+![圖片說明]({{ '/assets/images/w03-02jpg' | relative_url }})
 
 A組工作坊：
 
 我擔任 C 的角色，負責留在教室聽 A跟B 的描述路線通話，同時也用文字持續記錄他們提供的線索。相較於全程矇眼只能依賴聽覺與觸覺的 D，我多了視覺以及行動上的自由，因此可以一邊聽一邊寫，也能隨時回頭整理和思考前面接收到的資訊。
+
+![圖片說明]({{ '/assets/images/w03-03jpg' | relative_url }})
+![圖片說明]({{ '/assets/images/w03-04jpg' | relative_url }})
 
 sketching device:
 
